@@ -6,3 +6,5 @@
 🌱  In my free time, I like to do pottery, plant and hang out with my friends. <br>
 ✉️  Drop me an email at hassan.sheikh85@gmail.com with subject like this: "GitHub: ..." It will be a pleasure to work with you!<br>
 📫  How to reach me: <a href="mailto:hassan.sheikh85@gmail.com">Email</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
