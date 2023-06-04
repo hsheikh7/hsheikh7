@@ -1,5 +1,5 @@
 # Hey, there! 👋 I'm Hassan Sheikh!
- 🔭  I’m currently working on Django and Machin Learning ❤️ projects <br>
+ 🔭  I’m currently working on Python and Machine Learning using Django framework ❤️ projects <br>
 📚  I’m currently learning RestAPI, Flask, and Docker <br>
 🙋‍♂️  I’m looking to collaborate with other developers and designers <br>
 🤝  I’m looking forward for contribue to projects with geographical or environmental aspects.<br>
