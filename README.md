@@ -8,7 +8,6 @@
 📫  How to reach me: <a href="mailto:hassan.sheikh85@gmail.com">Email</a>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hsheikh7)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsheikh7&show_icons=true&theme=transparent)
 
 
