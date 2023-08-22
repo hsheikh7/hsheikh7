@@ -5,7 +5,6 @@
 🤝  Passionate about tech for geography and the environment. <br>
 🌱  When not coding, I enjoy pottery, plants, and exploring nature. <br>
 ✉️  Reach me at hassan.sheikh85@gmail.com with a subject like this: "GitHub: ..." <br>
-📫  How to reach me: <a href="mailto:hassan.sheikh85@gmail.com">Email</a>
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hsheikh7/) and explore my thoughts on [Medium](https://medium.com/@hsheikh7).
 
